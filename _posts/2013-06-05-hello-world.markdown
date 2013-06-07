@@ -6,17 +6,15 @@ categories: jekyll update
 ---
 
 This is a first test post!
+
 -Sean
 
 {% highlight ruby %}
 #!/usr/bin/env ruby
-
 def greet(target)
   return "Hello, #{target}!"
 end
-
 puts greet("WORLD")
-
-#=> prints 'hello WORLD' to STDOUT.
+#=> prints 'hello, WORLD' to STDOUT.
 {% endhighlight %}
 
