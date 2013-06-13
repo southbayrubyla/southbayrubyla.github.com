@@ -54,6 +54,17 @@ ul.posts span {
   font-size: 80%;
 }
 
+#logo {
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+}
+
+div.left {
+  float: left;
+  clear: both;
+}
+
 /*****************************************************************************/
 /*
 /* Site
@@ -166,4 +177,4 @@ ul.posts span {
 
 #post pre.terminal code {
   background-color: #333;
-}
+
