@@ -127,7 +127,7 @@ div.left {
   margin-right: 1.9em;
 }
 
-.site .footer .contact a {
+.site .footer .contact a, .site .footer .contact p {
   color: #8085C1;
 }
 
@@ -162,6 +162,7 @@ div.left {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
+  white-space: pre-wrap;
 }
 
 #post pre code {
