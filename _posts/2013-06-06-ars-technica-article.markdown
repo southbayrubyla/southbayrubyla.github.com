@@ -2,7 +2,7 @@
 layout: post
 title:  "Ars Technica Article"
 date:   2013-06-06 13:01:00
-comments: false
+comments: true
 categories: article
 ---
 

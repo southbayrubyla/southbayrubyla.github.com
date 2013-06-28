@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2013-06-05 09:06:02
-comments: false
+comments: true
 categories: jekyll update
 ---
 
