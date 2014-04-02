@@ -63,6 +63,7 @@ ul.posts span {
 div.left {
   float: left;
   clear: both;
+  margin-right: 5px;
 }
 
 /*****************************************************************************/
